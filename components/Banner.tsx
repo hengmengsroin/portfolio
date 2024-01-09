@@ -12,7 +12,7 @@ const Banner = () => {
         </div>
 
         <div className="flex flex-col gap-6 mt-6 cursor-pointer hover:-translate-y-1  transition  hover:scale-110 transition ease-in-out hover:text-transparent bg-clip-text  hover:bg-gradient-to-r from-purple-500 to-orange-400 z-[1] tracking-tighter text-7xl font-semibold text-white max-w-[600px] w-auto h-auto">
-          Ibrahim Memon!
+          HENG MENGSROIN
         </div>
         <p className="text-2xl font-medium tracking-tighter  text-gray-300 max-w-[600px]">
           I do Code &{" "}
