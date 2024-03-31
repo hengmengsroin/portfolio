@@ -22,8 +22,9 @@ const Banner = () => {
           🍿
         </p>
         <p className="text-md text-gray-200 my-5 max-w-[600px]">
-          Passionate Software Engineer with a focus on React Native development,
-          dedicated to crafting elegant and user-friendly mobile applications.
+          Passionate Software Engineer with experience in developing backend,
+          react frontend, and mobile applications. I am a quick learner and
+          always eager to learn new technologies.
         </p>
         <div className="text-md flex justify-center">
           <button
