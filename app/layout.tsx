@@ -7,16 +7,15 @@ import Navbar from "@/components/Navbar";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  metadataBase: new URL(
-    "https://developer-portfolio-ibrahim-memons-projects.vercel.app"
-  ),
-  title: "Ibrahim Portfolio",
-  description: "Developer Portfolio By Ibrahim Memon",
-  keywords: ["Developer", "Portfolio", "Developer Portflio", "Ibrahim Memon"],
+  metadataBase: new URL("https://hmsroin.vercel.app"),
+
+  title: "Mengsroin Portfolio",
+  description: "Developer Portfolio By Mengsroin HENG",
+  keywords: ["Developer", "Portfolio", "Developer Portfolio", "Mengsroin HENG"],
   openGraph: {
-    title: "Ibrahim Memon",
+    title: "Mengsroin HENG",
     description: "Software Engineer",
-    images: "/OpenGraph.jpg",
+    images: "/OpenGraph.png",
   },
 };
 

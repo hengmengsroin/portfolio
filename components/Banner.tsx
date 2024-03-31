@@ -11,10 +11,10 @@ const Banner = () => {
           <Image src="/Me.png" height={300} width={300} alt="Heng Mengsroin" />
         </div>
 
-        <div className="flex flex-col gap-6 mt-6 cursor-pointer hover:-translate-y-1  transition  hover:scale-110 transition ease-in-out hover:text-transparent bg-clip-text  hover:bg-gradient-to-r from-purple-500 to-orange-400 z-[1] tracking-tighter text-7xl font-semibold text-white max-w-[600px] w-auto h-auto">
-          HENG MENGSROIN
+        <div className="flex flex-col gap-6 mt-6 cursor-pointer hover:-translate-y-1  hover:scale-110 transition ease-in-out hover:text-transparent bg-clip-text  hover:bg-gradient-to-r from-purple-500 to-orange-400 z-[1] tracking-tighter text-7xl font-semibold text-white max-w-[600px] w-auto h-auto leading-tight	">
+          Mengsroin HENG
         </div>
-        <p className="text-2xl font-medium tracking-tighter  text-gray-300 max-w-[600px]">
+        <p className="text-2xl font-medium tracking-tighter mt-2 text-gray-300 max-w-[600px]">
           I do Code &{" "}
           <span className="text-transparent font-semibold  bg-clip-text bg-gradient-to-r from-purple-500 to-orange-400">
             Chill
